@@ -15,7 +15,7 @@ pip install requirements.txt
 ## Usage
 
 ```python
-python Detection.py
+python Detector.py
 ```
 
 ## Contributing
